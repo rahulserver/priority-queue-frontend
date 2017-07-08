@@ -1,6 +1,6 @@
 To run the code, cd into the `server` directory and execute 
-```npm install``` 
-followed by 
+```npm run setup```  to setup the node modules and bower_components
+then execute 
 ```npm start```
 
 Then open ```localhost:3000``` to view the user interface

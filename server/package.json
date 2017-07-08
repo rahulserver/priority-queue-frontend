@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
+    "setup": "npm install && bower install",
     "start": "node index.js",
     "test": "node test/queueControllerSpec.js"
   },
